@@ -1,6 +1,6 @@
 - 👋 Hi, meet me@muhibu kaneka
 - 👀 I’m interested in ...geospatial data analysis
-- 🌱 I graduated MSc. Georesources (university of Tlemcen) and MSc. Environmental hazards and risks management (University of Côte d'Azur)
+- 🌱 I graduated MSc. Georesources (university of Tlemcen, Algeria) and MSc. Environmental hazards and risks management (University of Côte d'Azur, France)
 - 💞️ I’m looking to collaborate on ...Geospatial relating projects.
 - 📫 contact me through mmkaneka@gmail.com
 
